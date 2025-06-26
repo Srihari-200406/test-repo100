@@ -1,7 +1,7 @@
 # include 
-     int main
+     int void main
 {
 	printf(hello java bro )
-	scanf()
+	scanf("/a")
 }
-return 0:
+return 0;
