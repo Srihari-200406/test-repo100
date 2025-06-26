@@ -1,7 +1,7 @@
 # include 
-     int main
+     int dodmain
 {
-	printf(hello java bro )
+	printf(hello java )
 	scanf()
 }
-return 0:
+return 0;
